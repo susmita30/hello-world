@@ -1,2 +1,5 @@
 # hello-world
-practice test
+practice
+
+
+System.out.println("Hello world.");
